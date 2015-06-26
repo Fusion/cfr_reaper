@@ -1,5 +1,6 @@
 This is a very light program that can be run as process #1 in a container such as Docker.
 
+v1.0
 
 # "What do I need this for?" you may ask.
 
